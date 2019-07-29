@@ -1,0 +1,25 @@
+body
+{
+   background-image: url(hardik-pandya-294216-unsplash.jpg);
+}
+
+p{
+    color:yellow;
+    font-size: 40px;
+    font-family: cursive;
+}
+h1{
+    color:deeppink;
+    font-size: 60px;
+    font-family:fantasy;
+}
+p1{
+    font-size: 30px;
+    color:red;
+    font-family: monospace ;
+}
+.back
+{
+    height:30px;
+    width: 30px;
+}
